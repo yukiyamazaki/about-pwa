@@ -8,6 +8,10 @@
 -[Use Apple Touch Icon](https://web.dev/install-criteria/)  
     
 ### サービスワーカーの設定
+memo  
+・サービスワーカーはdevモードでは更新されない。hotreload使えないので毎回コンパイラしなおす必要がある
+・サービスワーカー更新時は、ブラウザ上で一旦unRegisterする。更新されないから。
+  
 -[サーバーからブラウザを通じてデスクトップ通知する方法](https://laboradian.com/web-push/)  
 -[Service Workerとは](https://yasunari-fujieda.hatenablog.com/entry/2016/08/31/163800)  
 -[僕の考えた最強のService Workerキャッシュ戦略で爆速サービスを作った](https://qiita.com/tiwu_dev/items/47e8a7c3e6f2d57816d7)  
