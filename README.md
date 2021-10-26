@@ -29,4 +29,5 @@ memo
   
 ## 通知  
 -[通知をオンまたはオフにする chrome公式の通知の仕組み](https://support.google.com/chrome/answer/3220216?hl=ja&co=GENIE.Platform%3DAndroid)  
--[通知の設定](https://developer.mozilla.org/ja/docs/Web/API/ServiceWorkerRegistration/showNotification)
+-[通知の設定](https://developer.mozilla.org/ja/docs/Web/API/ServiceWorkerRegistration/showNotification)  
+-[PushAPIから通知を受ける処理](https://developer.mozilla.org/ja/docs/Web/API/ServiceWorkerGlobalScope/push_event)
