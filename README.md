@@ -28,4 +28,5 @@ memo
 -[【PWA】シリーズPWA (6) プッシュ通知を送ってみる](https://shinimae.hatenablog.com/entry/2019/08/15/194051)
   
 ## 通知  
--[通知をオンまたはオフにする chrome公式の通知の仕組み](https://support.google.com/chrome/answer/3220216?hl=ja&co=GENIE.Platform%3DAndroid)
+-[通知をオンまたはオフにする chrome公式の通知の仕組み](https://support.google.com/chrome/answer/3220216?hl=ja&co=GENIE.Platform%3DAndroid)  
+-[通知の設定](https://developer.mozilla.org/ja/docs/Web/API/ServiceWorkerRegistration/showNotification)
