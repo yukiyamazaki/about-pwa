@@ -25,9 +25,11 @@ memo
   
   
 ## PUSH通知
--[【PWA】シリーズPWA (6) プッシュ通知を送ってみる](https://shinimae.hatenablog.com/entry/2019/08/15/194051)
+-[【PWA】シリーズPWA (6) プッシュ通知を送ってみる](https://shinimae.hatenablog.com/entry/2019/08/15/194051)  
+-[CloudFunctionとFCMの連携について](https://try-m.co.jp/labo/2020/04/03/pwa-push-firebase/)
   
 ## 通知  
 -[通知をオンまたはオフにする chrome公式の通知の仕組み](https://support.google.com/chrome/answer/3220216?hl=ja&co=GENIE.Platform%3DAndroid)  
 -[通知の設定](https://developer.mozilla.org/ja/docs/Web/API/ServiceWorkerRegistration/showNotification)  
 -[PushAPIから通知を受ける処理](https://developer.mozilla.org/ja/docs/Web/API/ServiceWorkerGlobalScope/push_event)
+ 
